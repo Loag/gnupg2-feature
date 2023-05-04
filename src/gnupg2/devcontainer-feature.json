@@ -1,0 +1,12 @@
+{
+  "id": "gnupg2",
+  "version": "0.0.1",
+  "name": "gnupg2",
+  "documentationURL": "https://github.com/loag/gnupg2-feature",
+  "description": "Installs gnupg2",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+      "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
